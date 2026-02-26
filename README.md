@@ -39,9 +39,13 @@ Results-driven Product and Data Analyst with 3.5+ years of experience leveraging
 **Bridge Carbon** | Jan 2024 – Dec 2025
 
 • Led end-to-end analytics and reporting for global survey and product usage data, enabling data-driven operational and strategic decisions.
+
 • Built interactive Power BI and Tableau dashboards to track user funnels, engagement, and KPI performance, improving stakeholder visibility into product performance.
+
 • Designed and optimized ETL pipelines using SQL, Snowflake, and Google BigQuery to process large-scale datasets, reducing reporting latency by 30%.
+
 • Partnered with cross-functional teams including Product, Marketing, and Operations to deliver actionable insights improving efficiency and campaign effectiveness.
+
 • Streamlined global data collection workflows using ODK, Upya, and internal tools, improving data reliability and accessibility.
 
 ---
@@ -51,9 +55,13 @@ Results-driven Product and Data Analyst with 3.5+ years of experience leveraging
 **Testbook.com** | Aug 2021 – Aug 2023
 
 • Owned product analytics for platform serving 17M+ monthly active users, providing insights into user behavior, engagement, and feature performance.
+
 • Developed 10+ executive dashboards and wrote 100+ complex SQL queries to monitor product KPIs including conversion, retention, acquisition, and revenue.
+
 • Automated reporting and data pipelines using SQL, MongoDB, and Apps Script, reducing manual effort and improving reporting efficiency.
+
 • Conducted funnel analysis, cohort analysis, and retention analysis using Python, identifying product improvement opportunities and supporting roadmap decisions.
+
 • Enabled Sales and Product teams with real-time performance dashboards in Looker Studio and Redash, improving operational decision-making and team productivity.
 
 ---
@@ -63,7 +71,9 @@ Results-driven Product and Data Analyst with 3.5+ years of experience leveraging
 **The Health Company** | May 2021 – Aug 2021
 
 • Analyzed customer acquisition, retention, and product performance data to support growth strategy decisions.
+
 • Built automated Excel and dashboard reports to identify high-performing and underperforming products.
+
 • Conducted CAC, LTV, and SKU performance analysis, helping optimize marketing spend and improve repeat purchase rate by 12%.
 
 ---
