@@ -1,5 +1,5 @@
 # HIMANI MALHOTRA - Business Data Analysis Portfolio
-Hey everyone! My name is Himani, and this is my portfolio.
+Hey everyone! I am Himani, and this is my portfolio.
 I love exploring datsets, discovering insights, and presenting it with interesting visuals.
 
 ## About me
