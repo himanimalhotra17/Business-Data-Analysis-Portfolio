@@ -21,9 +21,13 @@ Results-driven Product and Data Analyst with 3.5+ years of experience leveraging
 # KEY ACHIEVEMENTS
 
 • Reduced reporting latency by 30% by designing scalable ETL pipelines using SQL, Snowflake, and BigQuery, enabling near real-time product monitoring and faster decision-making.
+
 • Automated 10+ reporting workflows using SQL, Apps Script, and dashboards, saving 10+ hours weekly for product and business teams.
+
 • Delivered executive dashboards tracking funnel conversion, retention, and revenue metrics, enabling leadership to optimize product and marketing strategies.
+
 • Analyzed behavioral data across 17M+ MAUs to identify feature adoption trends, improving product performance and user engagement.
+
 • Improved repeat purchase rates by 12% through customer segmentation, SKU performance analysis, and targeted acquisition strategy recommendations.
 
 ---
