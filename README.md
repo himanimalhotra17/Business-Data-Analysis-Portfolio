@@ -7,9 +7,8 @@ I love exploring datsets, discovering insights, and presenting it with interesti
 #### **Product Data Analyst | Business Intelligence Specialist**
 
 New Delhi, India | +91-7217820095 | [malhotrahimani29@gmail.com](mailto:malhotrahimani29@gmail.com)
-LinkedIn: www.linkedin.com/in/himani-malhotra-a12ba6190/  
-Portfolio/GitHub: https://github.com/himanimalhotra17/Business-Data-Analysis-Portfolio
-[Resume](https://github.com/himanimalhotra17/Business-Data-Analysis-Portfolio/blob/main/HIMANIMALHOTRA_Resume%20.pdf) 
+
+[LinkedIn](www.linkedin.com/in/himani-malhotra-a12ba6190/)  -  [Portfolio/GitHub](https://github.com/himanimalhotra17/Business-Data-Analysis-Portfolio)   -   [Resume](https://github.com/himanimalhotra17/Business-Data-Analysis-Portfolio/blob/main/HIMANIMALHOTRA_Resume%20.pdf) 
 
 ---
 
