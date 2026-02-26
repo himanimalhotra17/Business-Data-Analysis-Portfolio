@@ -78,17 +78,19 @@ Results-driven Product and Data Analyst with 3.5+ years of experience leveraging
 
 ---
 
-# PROJECTS
+# PORTFOLIO PROJECTS
 
-## Product Funnel and Revenue Analytics Dashboard
+## Customer Retention and Revenue Analytics Dashboard
 
-• Built Power BI dashboard tracking conversion, retention, and revenue metrics across acquisition channels.
-• Identified funnel drop-offs and provided recommendations to improve conversion and reduce user churn.
+• Built an interactive Power BI dashboard to analyze revenue trends, channel performance, discount effectiveness tracking conversion,retention,discount effectiveness, and cancellation patterns to support data-driven business decisions.
+• Identified potential to improve revenue efficiency by optimizing discount allocation and reducing cancellation rates.
 
-## Customer Retention and Cohort Analysis
 
-• Performed cohort analysis using SQL and Python to measure user retention trends and identify churn patterns.
-• Recommended retention strategies based on behavioral segmentation.
+## Subscription Retention, Product Funnel, LTV and Cohort Analysis
+
+• Performed cohort-based retention analysis and identified early churn as primary revenue leakage point in Tableau dashboard.
+• Analyzed 30/60/90-day retention patterns, LTV and lifecycle drop-offs.
+• Proposed lifecycle-based interventions to improve retention and monetization and recommended retention strategies based on behavioral segmentation.
 
 ## Automated Data Pipeline and Reporting System
 
@@ -134,10 +136,8 @@ Stakeholder Management | Strategic Decision Support | Data Automation
 
 ---
 
-# PORTFOLIO (ADD LINKS)
+# PORTFOLIO 
 
-Power BI Dashboards | SQL Projects | Product Analytics Case Studies | GitHub | Tableau Public
+Power BI Dashboards | SQL Projects | Product Analytics Case Studies | GitHub | Tableau Public 
 
 ---
-
-**Target Roles:** Senior Product Analyst | Senior Data Analyst | Analytics Engineer
