@@ -139,6 +139,6 @@ Stakeholder Management | Strategic Decision Support | Data Automation
 
 # PORTFOLIO 
 
-Power BI Dashboards | SQL Projects | Product Analytics Case Studies | GitHub | Tableau Public 
+Power BI Dashboards | SQL Projects | Product Analytics Case Studies | GitHub | [Tableau Public](https://public.tableau.com/app/profile/himani.malhotra/viz/ProductAnalyticsSubscriptionRetentionChurnLTVDashboard/ExecutiveOverview) 
 
 ---
