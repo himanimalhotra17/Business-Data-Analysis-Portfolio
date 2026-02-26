@@ -80,13 +80,13 @@ Results-driven Product and Data Analyst with 3.5+ years of experience leveraging
 
 # PORTFOLIO PROJECTS
 
-## Customer Retention and Revenue Analytics Dashboard
+## [Customer Retention and Revenue Analytics Dashboard](https://github.com/himanimalhotra17/Travel-Booking-Dashboard-PowerBI)
 
 • Built an interactive Power BI dashboard to analyze revenue trends, channel performance, discount effectiveness tracking conversion,retention,discount effectiveness, and cancellation patterns to support data-driven business decisions.
 • Identified potential to improve revenue efficiency by optimizing discount allocation and reducing cancellation rates.
   (https://github.com/himanimalhotra17/Travel-Booking-Dashboard-PowerBI)
 
-## Subscription Retention, Product Funnel, LTV and Cohort Analysis
+## [Subscription Retention, Product Funnel, LTV and Cohort Analysis](https://github.com/himanimalhotra17/Product-Subscription-Analytics-Tableau-Project)
 
 • Performed cohort-based retention analysis and identified early churn as primary revenue leakage point in Tableau dashboard.
 • Analyzed 30/60/90-day retention patterns, LTV and lifecycle drop-offs.
